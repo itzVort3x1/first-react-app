@@ -1,3 +1,7 @@
+# Project Description
+
+A basic React application that takes the users location and determines the season at that particular location!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
